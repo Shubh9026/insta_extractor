@@ -1,0 +1,13 @@
+easyocr
+matplotlib
+pytubefix
+ffmpeg
+yt-dlp
+python-bidi==0.4.2
+imageio[ffmpeg]
+imageio[pyav]
+youtube-search-python
+opencv-python-headless
+instaloader
+openai
+
